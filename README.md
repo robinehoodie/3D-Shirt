@@ -1,3 +1,3 @@
-cd client 
-npm install
-npm run dev
+cd client  <br />
+npm install <br />
+npm run dev 
